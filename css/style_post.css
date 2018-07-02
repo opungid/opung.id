@@ -1,0 +1,13 @@
+html, body{
+	background-color: #fafafa;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+*{
+  box-sizing:border-box;
+}
+
+footer {
+	background-color: #5bc2cd;
+}
